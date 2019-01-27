@@ -2,5 +2,6 @@
   <component name="CodeInsightSettings">
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
     <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
+    <option name="AUTOINSERT_PAIR_BRACKET" value="false" />
   </component>
 </application>
