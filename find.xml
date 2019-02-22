@@ -14,6 +14,7 @@
     <mask>*.mxml</mask>
     <mask>*.html</mask>
     <mask>*.sql</mask>
+    <mask>package.json</mask>
     <mask>*.ts</mask>
   </component>
 </application>
