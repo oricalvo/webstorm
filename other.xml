@@ -1,0 +1,36 @@
+<application>
+  <component name="BuiltInServerOptions" allowUnsignedRequests="true" />
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="8.10.0" last-modified="1521970772563" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6666667" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.62362635" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="KEYMAP" value="debug&#10;replace a&#10;typescript compile" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="SearchEveryWhereHistory" value="resumeBench&#10;reader&#10;searchstatus&#10;newbench&#10;getSearches" />
+    <property name="SettingsSearchHistory" value="typescript&#10;typesc&#10;tslint&#10;javascript" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="debug.configuration.alternate.action.ad" value="true" />
+    <property name="evlsprt.183" value="168eb72d1eb" />
+    <property name="evlsprt2.183" value="168a359d12c" />
+    <property name="evlsprt3.182" value="15" />
+    <property name="evlsprt3.183" value="14" />
+    <property name="file.chooser.recent.files" value="C:/ta/backend/dist/src/tools/insert-patents-from-google-bucket-to-postgres/fix.js&#10;C:/ta/backend/dist/src/tools/insert-patents-from-google-bucket-to-postgres&#10;C:/courses/course-dell-angular-development-2018-10/samples/02 Angular/14 myClass&#10;C:/courses/course-dell-angular-development-2018-10/samples/02 Angular/13 routing&#10;C:/courses/course-dell-angular-development-2018-10/samples/02 Angular/12 redux&#10;C:/courses/course-dell-angular-development-2018-10/samples/02 Angular/11 APP_INITIALIZER&#10;C:/courses/course-dell-angular-development-2018-10/samples/02 Angular/10 useValue-is-a-clone&#10;C:/courses/course-dell-angular-development-2018-10/samples/02 Angular/09 modules-and-providers&#10;C:/repos/oc-tools&#10;C:/courses/course-dell-angular-development-2018-10/samples/02 Angular/08 modal&#10;C:/courses/course-dell-angular-development-2018-10/samples/02 Angular/07 component-factory-resolver&#10;C:/courses/course-dell-angular-development-2018-10/samples/02 Angular/06 content-projection&#10;C:/courses/course-dell-angular-development-2018-10/samples/02 Angular/05 local css&#10;C:/courses/course-dell-angular-development-2018-10/samples/02 Angular/04 OnPush&#10;C:/courses/course-dell-angular-development-2018-10/samples/02 Angular/03 runOutsideAnular&#10;C:/courses/course-dell-angular-development-2018-10/samples/02 Angular/02 applicationRef.tick&#10;C:/Screenovate/webphone-master&#10;C:/Screenovate/repo/samples/02 React/13 with-redux&#10;C:/Screenovate/repo/samples/02 React/12 global-state&#10;C:/Screenovate/repo/samples/02 React/11 lazy-loading&#10;C:/Screenovate/repo/samples/02 React/10 working-with-input&#10;C:/Screenovate/repo/samples/02 React/09 pure-component&#10;C:/Screenovate/repo/samples/02 React/08 list &amp; key&#10;C:/Screenovate/repo/samples/02 React/07 recap&#10;C:/courses/course-dell-angular-development-2018-10/samples/01 JavaScript/counter-with-es6-class&#10;C:/courses/course-dell-angular-development-2018-10/samples/01 JavaScript/es6-modules&#10;C:/courses/course-dell-angular-development-2018-10/samples/01 JavaScript/work-with-webpack&#10;C:/Screenovate/repo/samples/02 React/06 master-detail&#10;C:/Screenovate/repo/samples/02 React/00 seed&#10;C:/Screenovate/repo/samples/02 React/render-list-jsx" />
+    <property name="file.gist.reindex.count" value="403263" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="vcs.log.details.splitter.proportion" value="0.23076923" />
+  </component>
+</application>
