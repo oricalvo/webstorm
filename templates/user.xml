@@ -1,0 +1,13 @@
+<templateSet group="user">
+  <template name="genContactType" value="interface Contact {&#10;    id: number;&#10;    name: string;&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="genContactList" value="[&#10;    {&quot;id&quot;: 1, &quot;name&quot;: &quot;Ori&quot;},&#10;    {&quot;id&quot;: 2, &quot;name&quot;: &quot;Roni&quot;},&#10;    {&quot;id&quot;: 3, &quot;name&quot;: &quot;Udi&quot;}&#10;]&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
