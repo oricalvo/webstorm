@@ -1,8 +1,8 @@
 <toolSet name="External Tools">
-  <tool name="Typescript" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="Typescript" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$\node_modules\.bin\tsc.cmd" />
-      <option name="PARAMETERS" value="-b tsconfig.json" />
+      <option name="COMMAND" value="node" />
+      <option name="PARAMETERS" value="dist/src/tools/tsc-wrapper/main.js" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
