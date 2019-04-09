@@ -7,12 +7,14 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="gyp" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <removed_mapping pattern="tsconfig.app.json" approved="true" type="tsconfig" />
       <removed_mapping pattern="tsconfig.spec.json" approved="true" type="tsconfig" />
       <removed_mapping pattern="tsconfig.e2e.json" approved="true" type="tsconfig" />
       <removed_mapping pattern="tsconfig.lib.json" approved="true" type="tsconfig" />
-      <removed_mapping pattern="tsconfig.json" approved="true" type="tsconfig" />
       <removed_mapping pattern="tsconfig.spec.json" approved="true" type="tsconfig" />
+      <removed_mapping pattern="tsconfig.app.json" approved="true" type="tsconfig" />
       <removed_mapping pattern="tsconfig.e2e.json" approved="true" type="tsconfig" />
+      <removed_mapping pattern="tsconfig.json" approved="true" type="tsconfig" />
       <removed_mapping pattern="tsconfig.lib.json" approved="true" type="tsconfig" />
     </extensionMap>
   </component>
