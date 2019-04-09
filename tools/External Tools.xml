@@ -2,7 +2,7 @@
   <tool name="Typescript" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="dm.cmd" />
-      <option name="PARAMETERS" value="build" />
+      <option name="PARAMETERS" value="build all" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
     <filter>
