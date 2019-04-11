@@ -1,13 +1,13 @@
 <toolSet name="External Tools">
   <tool name="typescript" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="node" />
-      <option name="PARAMETERS" value="$ProjectFileDir$\dist\src\tools\tsc-wrapper\main.js -b tsconfig.json" />
+      <option name="COMMAND" value="dm.cmd" />
+      <option name="PARAMETERS" value="build all" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
     <filter>
-      <option name="NAME" />
-      <option name="DESCRIPTION" />
+      <option name="NAME" value="" />
+      <option name="DESCRIPTION" value="" />
       <option name="REGEXP" value="$FILE_PATH$\($LINE$,$COLUMN$\)" />
     </filter>
   </tool>
