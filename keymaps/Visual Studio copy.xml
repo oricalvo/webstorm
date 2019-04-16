@@ -4,4 +4,7 @@
   <action id="Tool_External Tools_Typescript">
     <keyboard-shortcut first-keystroke="f7" />
   </action>
+  <action id="Tool_External Tools_typescript">
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
 </keymap>
